@@ -1,0 +1,8 @@
+node_modules
+.svn
+.idea
+.DS_Store
+npm-debug.log
+dist/*
+build/*
+

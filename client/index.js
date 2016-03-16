@@ -1,0 +1,1 @@
+module.exports.template = require('js/template')
